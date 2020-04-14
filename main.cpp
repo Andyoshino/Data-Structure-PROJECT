@@ -1,5 +1,8 @@
 /*
 Author : Butrahandisya - 1301190206 - IF-43-08
+Some functional that still had not been fixed :
+[1] Deleting an address from a customer list when the selected customer had rated atleast 1 product.
+[2] Deleting an address from a product list when the selected product had been rated atleast once by any customer.
 */
 #include "header.h"
 
