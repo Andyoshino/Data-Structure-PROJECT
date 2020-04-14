@@ -1,3 +1,6 @@
+/*
+Author : Butrahandisya - 1301190206 - IF-43-08
+*/
 #include "header.h"
 //Untuk list
 // -> Untuk customer
