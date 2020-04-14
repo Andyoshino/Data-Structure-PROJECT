@@ -328,7 +328,7 @@ void menuLoginAdmin(string &username, string &password) {
     cin >> password;
 }
 bool cekInfoAdmin(string username, string password) {
-    return (username == "admin" && password == "admin69");
+    return (username == "admin" && password == "admin777");
 }
 void menuAdmin() {
     cout << "[Menu Admin]" << endl;
