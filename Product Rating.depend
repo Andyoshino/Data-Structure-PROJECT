@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1585657848 source:d:\computer science\2nd semester\struktur data\tubes\product rating\main.cpp
+	"header.h"
+
+1585656863 d:\computer science\2nd semester\struktur data\tubes\product rating\header.h
+	<iostream>
+
+1585657442 source:d:\computer science\2nd semester\struktur data\tubes\product rating\body.cpp
+	"header.h"
+
