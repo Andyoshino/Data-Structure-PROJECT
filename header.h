@@ -1,3 +1,6 @@
+/*
+Author : Butrahandisya - 1301190206 - IF-43-08
+*/
 #ifndef HEADER_H_INCLUDED
 #define HEADER_H_INCLUDED
 #include <iostream>
